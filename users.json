@@ -1,0 +1,37 @@
+[
+  {
+    "userId": 35,
+    "name": "Freddy",
+    "age": 57,
+    "bio": "Indoctrinated Fuktard Trump hater",
+    "img_url": "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "userId": 36,
+    "name": "Alice",
+    "age": 25,
+    "bio": "Web developer and coffee enthusiast",
+    "img_url": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "userId": 37,
+    "name": "Bob",
+    "age": 42,
+    "bio": "Tech geek and avid gamer",
+    "img_url": "https://images.pexels.com/photos/4502711/pexels-photo-4502711.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "userId": 38,
+    "name": "Eva",
+    "age": 30,
+    "bio": "Nature lover and photographer",
+    "img_url": "https://images.pexels.com/photos/1149604/pexels-photo-1149604.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "userId": 39,
+    "name": "Charlie",
+    "age": 28,
+    "bio": "Musician and creative soul",
+    "img_url": "https://images.pexels.com/photos/1616407/pexels-photo-1616407.jpeg?auto=compress&cs=tinysrgb&w=800"
+  }
+]
