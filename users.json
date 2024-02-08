@@ -14,9 +14,9 @@
     "img_url": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=800"
   },
   {
-    "userId": 62,
+    "userId": 37,
     "name": "Bob",
-    "age": 42,
+    "age": 62,
     "bio": "Fly fishing, hunter and former NFL linebacker",
     "img_url": "https://images.pexels.com/photos/12140068/pexels-photo-12140068.jpeg?auto=compress&cs=tinysrgb&w=800"
   },
@@ -30,8 +30,8 @@
   {
     "userId": 39,
     "name": "Charlie",
-    "age": 28,
-    "bio": "Mindful of govt school refuse",
-    "img_url": "https://images.pexels.com/photos/14535601/pexels-photo-14535601.jpeg?auto=compress&cs=tinysrgb&w=800"
+    "age": 32,
+    "bio": "Mind full of govt school refuse. Likes to wrestle sumos.",
+    "img_url": "https://images.pexels.com/photos/796217/pexels-photo-796217.jpeg?auto=compress&cs=tinysrgb&w=800"
   }
 ]
